@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+
+var Server = require('../src/js/server');
+
+Server.Run();
